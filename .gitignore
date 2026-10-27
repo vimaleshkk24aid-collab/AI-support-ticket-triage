@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# NOTE: ml/models/*.joblib are shipped so the project runs immediately.
+# Uncomment the next line to regenerate them locally instead.
+# ml/models/*.joblib
